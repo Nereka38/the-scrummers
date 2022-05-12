@@ -2,12 +2,14 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.group {
+.groups {
     display:flex;
     justify-content: space-evenly;
     flex-flow: wrap;
     align-items: center;
     text-align: center;
+    padding-top: 50px;
+    width: 100%;
 }
 
 .avatars {
@@ -44,10 +46,26 @@
     flex-flow: wrap;
     align-items: center;
     text-align: center;
-    background-color: #F4EE86;
+    padding-top: 50px;
 }
 
 .icons {
+    margin:90px 150px;
     width: 80px;
     height: 80px;
+}
+.bg-tools{
+    margin-top: 60px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F4EE86; 
+}
+.space{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    padding-top: 50px;
+   align-items: center;
 }
