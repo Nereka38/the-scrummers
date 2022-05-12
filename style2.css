@@ -1,6 +1,6 @@
 .group {
     display:flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-flow: wrap;
     align-items: center;
     text-align: center;
@@ -8,7 +8,27 @@
 
 .avatars {
     border-radius: 50%;
-    width: 20px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
 }
 
+<<<<<<< HEAD
+
+
+
+
+
+.tools{
+    display: flex;
+   
+}
+.icon{
+    width: 20px;
+    height: 20px;
+=======
+.tania , .mary-bell , .nerea , .marina {
+    border: solid black;
+    padding: 2%;
+    border-radius: 20%;
+>>>>>>> 9bf2662612d3255f83e70b3f1d7e1dee3cdf313c
+}
