@@ -1,6 +1,6 @@
 .group {
     display:flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-flow: wrap;
     align-items: center;
     text-align: center;
@@ -8,7 +8,12 @@
 
 .avatars {
     border-radius: 50%;
-    width: 20px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
 }
 
+.tania , .mary-bell , .nerea , .marina {
+    border: solid black;
+    padding: 2%;
+    border-radius: 20%;
+}
