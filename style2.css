@@ -1,0 +1,14 @@
+.group {
+    display:flex;
+    justify-content: center;
+    flex-flow: wrap;
+    align-items: center;
+    text-align: center;
+}
+
+.avatars {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
