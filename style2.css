@@ -8,7 +8,7 @@
     flex-flow: wrap;
     align-items: center;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 10vh;
     width: 100%;
 }
 
@@ -46,11 +46,11 @@
     flex-flow: wrap;
     align-items: center;
     text-align: center;
-    padding-top: 50px;
+   
 }
 
 .icons {
-    margin:90px 150px;
+    margin:8vw;
     width: 80px;
     height: 80px;
 }
@@ -66,6 +66,6 @@
     display: flex;
     flex-direction: column;
     margin-top: 60px;
-    padding-top: 50px;
+    padding-top: 10vh;
    align-items: center;
 }
