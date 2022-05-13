@@ -27,10 +27,18 @@
 .tania {
     background-color: #F4EE86;
 }
-
+.photo-tania{  
+    background-image: url(/images/avatar-tania.png);
+    background-size: cover ;
+}
+.photo-tania:hover{
+    background-image: url(/images/picture-tania.jfif);
+    background-position: center;
+}
 .mary-bell {
     background-color: #EB9792;
 }
+
 
 .nerea {
     background-color: #669298;
